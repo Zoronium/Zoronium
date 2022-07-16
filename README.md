@@ -63,17 +63,18 @@ I code in VSCODE <img  height="20" src="https://img.shields.io/badge/Visual_Stud
 
 #### Hope you like them if you have any suggestions or improvements or feedback about these Projects , 
 
-<br />
 
 #### Fell free to contact me And point out my mistakes ^**\_**^
 <br/>
 
-[Personal website](https://zoronium.github.io)
-<br/>
+[Personal website](https://zoronium.github.io) my Personal Website cum Portfolio 
 
-[REACT Movie Site](https://github.com/tmdb)
+[CRUD Application ](https://github.com/Zoronium/Crud-Application) it is a app made with django and React that does the basic crud operations 
 
-<img src=" "/>
+[REACT Movie Site](https://github.com/zoronium/tmdb)
+
+
+
 
 [My Projects are here and More comming soon](https://github.com/zoronium/)
 
