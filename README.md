@@ -2,8 +2,6 @@
 
 <h1 align="center"> Hello My Name is Advait Jain 👋</h1>
 <br />
-
-<h2>I am Aspiring Devloper 👨‍💻 and a Engg. Student 👨‍🎓 </h2>
 <h3>
 
 I am Aspiring Devloper 👨‍💻 and a Engg. Student 👨‍🎓
