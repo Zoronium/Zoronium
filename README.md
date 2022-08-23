@@ -2,20 +2,31 @@
 
 <h1 align="center"> Hello My Name is Advait Jain 👋</h1>
 <br />
-<span align="center">
 
 <h2>I am Aspiring Devloper 👨‍💻 and a Engg. Student 👨‍🎓 </h2>
 <h3>
-I am currently learning Web-DEV full Stack
 
-My Strong point is backend 🔌 currently but trying to learn Frontend 📱
+I am Aspiring Devloper 👨‍💻 and a Engg. Student 👨‍🎓
+------------------------------------------------------
+
+I am currently learning Web-DEV Full Stack My Strong point is the backend 🔌 currently but trying to learn Frontend 📱 I code in vs code
+
+* 🌍  I'm based in New Delhi , India
+* 🖥️  See my portfolio at  [zoronium.github.io](http://zoronium.github.io)
+* ✉️  You can contact me at [aj.advaitj@gmail.com](mailto:aj.advaitj+github@gmail.com)
+* 🚀  I'm currently working on [I am currently working on some projects](http://github.com/Zoronium)
+* 🧠  I'm learning Backend Using Django ,Node.js && frontend using React and Vue
+* 🤝  I'm collaborating on Learning Folks \[ a platform for learning industry-Level Skills by Folks like your self \]
+
+### Skills
 
 I code in VSCODE <img  height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
 </h3>
-</span>
 <br />
 
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/759139442493095947" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Zoronium" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/advaitj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <h2 align="center">Programing Languages / Technologies</h2>
 
 <br/>
@@ -79,3 +90,11 @@ I code in VSCODE <img  height="20" src="https://img.shields.io/badge/Visual_Stud
 [My Projects are here and More comming soon](https://github.com/zoronium/)
 
 </center>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Zoronium"><img src="https://github-readme-stats.vercel.app/api?username=Zoronium&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="Zoronium's GitHub stats" /></a>
+
+<a href="http://www.github.com/Zoronium"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zoronium&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
