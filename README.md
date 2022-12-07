@@ -14,7 +14,7 @@ I am currently learning Web-DEV Full Stack My Strong point is the backend 🔌 c
 * ✉️  You can contact me at [aj.advaitj@gmail.com](mailto:aj.advaitj+github@gmail.com)
 * 🚀  I'm currently working on [I am currently working on some projects](http://github.com/Zoronium)
 * 🧠  I'm learning Backend Using Django ,Node.js && frontend using React and Vue
-* 🤝  I'm collaborating on Learning Folks \[ a platform for learning industry-Level Skills by Folks like your self \]
+<!-- * 🤝  I'm collaborating on Learning Folks \[ a platform for learning industry-Level Skills by Folks like your self \] -->
 
 ### Skills
 
