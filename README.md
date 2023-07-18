@@ -24,7 +24,7 @@ I code in VSCODE <img  height="20" src="https://img.shields.io/badge/Visual_Stud
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/759139442493095947" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Zoronium" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/advaitj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://discord.com/users/759139442493095947" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/Zoronium" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/advaitj" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 <h2 align="center">Programing Languages / Technologies</h2>
 
 <br/>
@@ -34,7 +34,9 @@ I code in VSCODE <img  height="20" src="https://img.shields.io/badge/Visual_Stud
 <img src="https://img.icons8.com/color/64/000000/python--v1.png" alt="Python" title="Python">
 <img src="https://img.icons8.com/color/64/000000/javascript--v2.png" alt="JavaScript" title="JavaScript">
 <img src="https://img.icons8.com/plasticine/64/000000/bash.png" alt="bash" title="bash">
+<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_rust.svg" height="64" alt="RUST" title="RUST"/>
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_cpp2.svg" alt="Cpp" title="Cpp" height='64'>
+<img src="https://cdn-icons-png.flaticon.com/128/226/226777.png" alt="Java" title="Java" height='64'>
 
 </p>
 <br/>
@@ -54,40 +56,52 @@ I code in VSCODE <img  height="20" src="https://img.shields.io/badge/Visual_Stud
 <br/>
 <h3 align="center"> Learning this Year</h3>
 <p height="64" alt="" title="" align="center">
-<img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_rust.svg" height="64" alt="RUST" title="RUST"/>
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_typescript_official.svg" height="64" alt="TYPESCRIPT" title="TYPESCRIPT"/>
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_docker.svg" height="64" alt="DOCKER" title="DOCKER"/>
 <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/c6a88d017a90b71a98ec62fe829d7e93ec86b46a/icons/file_type_wasm.svg" height="64" alt="WASM // WEB-ASSEMBLY " title="WASM // WEB-ASSEMBLY "/>
 </p>
 
-<center>
-<details>
-  <summary>📃 Projects</summary>
-
 ## My Projects
 
-  <!-- ![website](./website.jpg) -->
+#### These are some of the projects I have made with more on their way soon.
 
-#### These are some of the projects I have made with more on their way soon . 
+#### Hope you like them! If you have any suggestions, improvements, or feedback about these projects, feel free to contact me.
 
-#### Hope you like them if you have any suggestions or improvements or feedback about these Projects , 
-
-
-#### Fell free to contact me And point out my mistakes ^**\_**^
-<br/>
-
-[Personal website](https://zoronium.github.io) my Personal Website cum Portfolio 
-
-[CRUD Application ](https://github.com/Zoronium/Crud-Application) it is a app made with django and React that does the basic crud operations 
-
-[REACT Movie Site](https://github.com/zoronium/tmdb)
+<details>
+  <summary>Click here Projects</summary>
+  
+  #### Projects
 
 
+1. **IMDB Clone using React**
+   - Deploy Link: [View](https://example.com)
+   - Github: [View](https://github.com/zoronium/imdb-clone)
+   - Developed an IMDB Clone to view popular movies and get data on these movies, reducing the clicking time by 20%.
+   - Built with React and Styled Components using The Movie DB API.
+   - Features include browsing the latest movie reviews, photos, trailers, and searching for movies and TV shows.
 
+2. **Deimos - Food Delivery System**
+   - Deploy Link: [View](https://example.com)
+   - Frontend Github: [View](https://github.com/zoronium/deimos-frontend)
+   - Backend Github: [View](https://github.com/zoronium/deimos-backend)
+   - Led a team of 6 in a hackathon to create this food delivery system.
+   - Developed a Python CRUD web application and a React frontend for food orders.
+   - Increased customer retention by 40% and reduced food delivery time by 20%.
+   - Server-side application manages restaurant data and provides an API using Django-rest, Django-cors, and SQLite.
 
-[My Projects are here and More comming soon](https://github.com/zoronium/)
+3. **Video-to-GIF Project**
+   - Deploy Link: [View](https://example.com)
+   - Github: [View](https://github.com/zoronium/video-to-gif)
+   - Developed a Python web application to convert video files into GIF format.
+   - Built using Flask, moviepy, Imageio & OpenCV, accumulated over 250 users in production on Railway.
 
-</center>
+4. **Delivery System**
+   - Deploy Link: [View](https://example.com)
+   - Github: [View](https://github.com/zoronium/delivery-system)
+   - Developed a Python web application for tracking, modifying, creating, and updating product deliveries using Event-Driven Architecture.
+   - Made using FastAPI, Redis, & Docker.
+
+</details>
 
 ### Badges
 
